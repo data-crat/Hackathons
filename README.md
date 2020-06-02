@@ -10,6 +10,8 @@ a)Public Scoreboard Rank : 47
 
 b)Private Scoreboard Rank : 60
 
+
+
 2)  Machine Learning for Banking - Analytics Vidhya :https://datahack.analyticsvidhya.com/contest/janatahack-machine-learning-for-banking/#LeaderBoard
 
 Date :  from 30/5/2020 to 31/5/2020
